@@ -23,6 +23,9 @@ const numbersArray2 = [24, 27, 30, 33, 36]
 
 // b) Create the function that makes the test pass.
 
+
+//________________________________________________________________________________________
+
 // --------------------1) Create a function that takes a object as an argument and decides if the number inside it is evenly divisible by three or not.
 
 // Pseudo code:
