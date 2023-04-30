@@ -58,8 +58,8 @@ Research and define the following terms to the best of your ability.
 
 2. Spread operator: This looks like ' ... ' and allows coders to copy all/part of an array or object. If there are lots of values/inputs for an object or an array, this will allow the coder to quickly get through typing the object/array out.
 
-3. React state:
+3. React state: Since everything in React is a component, React state is the variable that will dictate how the data in a component "renders and behaves". If data is in a state variable, it is called a logic componenet. If it is not, it's called a display component. The state of a component can also be static or dynamic, that utilizes different methods in either area that are built-in and assist users with manipulating the data and functional componenets within React.
 
-4. React props:
+4. React props: React props, or properties, allow the coder to share information between componenets, especially ones that are nested within one another (parent componenet passes it down). The information includes data and behaviors. Props are only passed in one direction
 
-5. DOM events:
+5. DOM events: DOM, which stands for Document Object Model, are interactions via the website user over the elements of the page. Everything from the keyboard to mouse interactions are tracked by DOM events. These events can be correlated to software reactions to the user on the otherside.
